@@ -1,19 +1,24 @@
-name: Jacky Zhao
+name: ndaukr
 enableToc: true
 openToc: false
-enableLinkPreview: true
+enableLinkPreview: false
 enableLatex: true
 enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  전국활동지원사노동조합의 페이지
 page_title:
   "🪴 Quartz 3.2"
 links:
+	- link name: Daum cafe
+		link: https://cafe.daum.net/paspower
   - link_name: Twitter
-    link: https://twitter.com/_jzhao
-  - link_name: Github
-    link: https://github.com/jackyzha0
+    link: https://twitter.com/ndaukr
+  - link_name: Facebook
+    link: https://facebook.com/ndau.kr
+  - link_name: Youtube
+		link: https://www.youtube.com/ndaukr
+	- link name: Instagram
+		link: https://www.instagram.com/ndaukr/
