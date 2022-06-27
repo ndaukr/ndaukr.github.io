@@ -1,0 +1,12 @@
+{
+  "newFileLocation": "folder",
+  "newFileFolderPath": "/",
+  "attachmentFolderPath": "media",
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "absolute",
+  "readableLineLength": false,
+  "autoPairBrackets": false,
+  "autoPairMarkdown": false,
+  "tabSize": 2
+}

@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "7b2ad1c8f8248da0",
+    "type": "split",
+    "children": [
+      {
+        "id": "2516d6d8732d63bc",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c92bfedc88eb3c68",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9154265e8a5b5b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de247838a4478e22",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2d855cf5c80ca498",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2c8b437924119409",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe7e9e0bf8a509d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "248864206bb5fad1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "2516d6d8732d63bc",
+  "lastOpenFiles": [
+    "20220627223358909.md",
+    "20220627223359154.md",
+    "20220627223359481.md",
+    "20220627223359788.md",
+    "20220627223400036.md",
+    "20220627223400279.md",
+    "20220627223400493.md",
+    "media/활동보조인 근로자성 질의회시.pdf",
+    "20220627223400708.md",
+    "20220627223400961.md"
+  ]
+}
