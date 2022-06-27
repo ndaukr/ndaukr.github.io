@@ -1,6 +1,6 @@
-baseURL = "https://quartz.jzhao.xyz/"
+baseURL = "https://ndaukr.github.io/"
 languageCode = "en-us"
-googleAnalytics = "G-XYFD95KB4J"
+googleAnalytics = "G-V7SP9CFQF1"
 pygmentsUseClasses = true
 relativeURLs = false
 disablePathToLower = true
