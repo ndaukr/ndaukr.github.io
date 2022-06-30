@@ -1,6 +1,6 @@
 name: ndaukr
 enableToc: true
-openToc: false
+openToc: true
 enableLinkPreview: false
 enableLatex: true
 enableSPA: true

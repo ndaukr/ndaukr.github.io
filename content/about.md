@@ -25,7 +25,7 @@ enableToc: false
 * [Twitter](http://twitter.com/ndaukr)
 * [Instagram](https://www.instagram.com/ndaukr)
 # E-mail & Messenger
-* <a href="mailto:ndau.kr@gmail.com">ndau.kr@gmail.com</a>
+* {{< raw >}}<a href="mailto:ndau.kr@gmail.com">ndau.kr@gmail.com</a>{{< /raw >}}
 * [Kakao talk](http://qr.kakao.com/talk/S97BYBSMpYyLEU6GRq7qTiIyOSM-) (사무국장)
 * [Telegram](https://t.me/dq_jeon) (사무국장)
 # 사무실 주소 & 전화 & FAX
